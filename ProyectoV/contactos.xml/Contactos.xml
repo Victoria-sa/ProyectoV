@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agenda>
+	<contacto idContacto="1">
+        <nombre>Texto Ejemplo</nombre>
+        <telefono>Texto Ejemplo</telefono>
+    </contacto>
+   <contacto idContacto="2">
+        <nombre>Texto Ejemplo</nombre>
+        <telefono>Texto Ejemplo</telefono>
+    </contacto>
+</agenda>
